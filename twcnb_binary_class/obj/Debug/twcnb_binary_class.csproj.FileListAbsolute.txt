@@ -1,0 +1,6 @@
+c:\users\chenkaiwang\documents\visual studio 2017\Projects\twcnb_binary_class\twcnb_binary_class\bin\Debug\twcnb_binary_class.exe.config
+c:\users\chenkaiwang\documents\visual studio 2017\Projects\twcnb_binary_class\twcnb_binary_class\bin\Debug\twcnb_binary_class.exe
+c:\users\chenkaiwang\documents\visual studio 2017\Projects\twcnb_binary_class\twcnb_binary_class\bin\Debug\twcnb_binary_class.pdb
+c:\users\chenkaiwang\documents\visual studio 2017\Projects\twcnb_binary_class\twcnb_binary_class\obj\Debug\twcnb_binary_class.csprojResolveAssemblyReference.cache
+c:\users\chenkaiwang\documents\visual studio 2017\Projects\twcnb_binary_class\twcnb_binary_class\obj\Debug\twcnb_binary_class.exe
+c:\users\chenkaiwang\documents\visual studio 2017\Projects\twcnb_binary_class\twcnb_binary_class\obj\Debug\twcnb_binary_class.pdb
